@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.navbar a.active {
+  text-decoration: underline;
+}
